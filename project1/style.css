@@ -1,0 +1,45 @@
+body
+{
+    background-color: #DEE7E7;
+    display: inline-block;
+    color: #4F646F;
+}
+h1
+{
+    text-align: center;  
+    font-size: 60px;
+    color: #535657;
+}
+h2
+{
+    text-align: center;
+    font-size: 30px;
+    color: #535657;
+}
+#story
+{
+    text-align: center;
+    margin: 60px;
+    font-size: 23px;
+    font-style: italic;
+    color: #535657;
+}
+#form 
+{
+    float: left;
+    clear: right;
+    margin-bottom: 10px;
+    color: #535657;
+    border: solid 2px #4F646F;
+}
+input[type=text]
+{
+    background-color: #F4FAFF;
+    color: #535657;
+}
+#lib
+{
+    color: #535657;
+    float: left;
+    clear: left;
+}
